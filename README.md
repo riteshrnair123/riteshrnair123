@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riteshrnair123
-- 👀 I’m interested in coding ans cubing
+- 👀 I’m interested in coding and cubing
 - 🌱 I’m currently learning Python,SQL and C++
 - 💞️ I’m looking to collaborate on working with Microsoft and Google
 - 📫 How to reach me : riteshrnair345@gmail.com
